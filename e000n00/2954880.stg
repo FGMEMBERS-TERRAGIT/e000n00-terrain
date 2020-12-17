@@ -1,0 +1,787 @@
+OBJECT_BASE 2954880.btg
+OBJECT 1Z9.btg
+OBJECT 2OG3.btg
+OBJECT_SHARED Models/Airport/windsock.xml -122.650343 45.430691 1.0 0.00
+OBJECT 2Z1.btg
+OBJECT 2Z6.btg
+OBJECT 52B.btg
+OBJECT 5L6.btg
+OBJECT_SHARED Models/Airport/windsock.xml -149.404985 61.586672 98.0 0.00
+OBJECT 5Z1.btg
+OBJECT 70B.btg
+OBJECT_SHARED Models/Airport/windsock.xml -68.839492 45.730313 149.8 0.00
+OBJECT 75PN.btg
+OBJECT 85B.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.561379 46.100346 237.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.561784 46.099476 236.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.562189 46.098607 236.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.562593 46.097737 235.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.562998 46.096867 235.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.563403 46.095997 235.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.563808 46.095127 235.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.564212 46.094257 235.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.564617 46.093388 235.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.565022 46.092518 235.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.565426 46.091648 235.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.565831 46.090778 235.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.566236 46.089908 235.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.566641 46.089039 235.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.567045 46.088169 235.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.567450 46.087299 235.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.567855 46.086429 235.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.568259 46.085559 235.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.567107 46.086261 235.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.566703 46.087131 235.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.566298 46.088000 235.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.565893 46.088870 235.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.565489 46.089740 235.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.565084 46.090610 235.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.564680 46.091480 235.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.564275 46.092350 235.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.563870 46.093220 235.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.563466 46.094089 235.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.563061 46.094959 235.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.562657 46.095829 235.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.562252 46.096699 235.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.561847 46.097569 235.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.561443 46.098439 235.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.561038 46.099308 236.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.560633 46.100178 236.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -68.560229 46.101048 237.6 0.00
+OBJECT 99Z.btg
+OBJECT 9C0.btg
+OBJECT AK29.btg
+OBJECT_SHARED Models/Airport/windsock.xml -135.344997 57.052199 0.8 0.00
+OBJECT AK56.btg
+OBJECT AK8.btg
+OBJECT BNF.btg
+OBJECT BQV.btg
+OBJECT CAA9.btg
+OBJECT CJD9.btg
+OBJECT CJX8.btg
+OBJECT CJZ9.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -105.297226 55.099138 361.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.280892 55.101679 357.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.282246 55.101200 357.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.283601 55.100721 357.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.284955 55.100242 357.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.286310 55.099763 357.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.287664 55.099284 357.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.289019 55.098805 357.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.290373 55.098326 357.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.291728 55.097847 357.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.293082 55.097368 357.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.294437 55.096888 357.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.295791 55.096409 357.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.297146 55.095930 357.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.298500 55.095451 356.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.299855 55.094972 356.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.301209 55.094493 356.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.302563 55.094014 356.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.303918 55.093535 356.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.302150 55.093630 356.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.300796 55.094109 356.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.299442 55.094588 356.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.298087 55.095068 356.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.296733 55.095547 356.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.295379 55.096026 357.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.294025 55.096506 357.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.292671 55.096985 357.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.291317 55.097464 357.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.289962 55.097944 357.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.288608 55.098423 357.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.287254 55.098902 357.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.285900 55.099382 357.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.284545 55.099861 357.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.283191 55.100341 356.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.281837 55.100820 356.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.280482 55.101299 356.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -105.279128 55.101779 357.0 0.00
+OBJECT CPT7.btg
+OBJECT_SHARED Models/Airport/windsock.xml -78.723747 46.311659 156.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.722614 46.311144 154.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.723919 46.310747 154.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.725224 46.310349 153.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.726530 46.309952 153.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.727835 46.309554 153.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.729141 46.309157 154.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.727595 46.309175 153.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.726289 46.309572 152.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.724984 46.309970 153.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.723679 46.310368 153.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.722373 46.310765 154.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -78.721068 46.311163 154.5 0.00
+OBJECT EDUY.btg
+OBJECT_SHARED Models/Airport/windsock.xml 14.082786 51.549368 98.3 0.00
+OBJECT ES05.btg
+OBJECT_SHARED Models/Airport/windsock.xml 14.620646 60.981242 163.5 0.00
+OBJECT ES07.btg
+OBJECT_SHARED Models/Airport/windsock.xml 18.135947 59.447885 6.9 0.00
+OBJECT EXI.btg
+OBJECT HWI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -134.755241 58.125445 9.8 0.00
+OBJECT KKI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -161.426587 60.897339 4.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.422275 60.893168 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.423805 60.893780 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.425336 60.894393 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.426866 60.895005 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.428396 60.895618 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.429927 60.896230 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.431457 60.896843 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.432988 60.897455 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.434518 60.898068 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.436049 60.898680 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.437579 60.899293 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.439110 60.899905 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.440640 60.900518 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.439824 60.899481 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.438293 60.898869 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.436763 60.898257 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.435232 60.897644 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.433701 60.897032 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.432170 60.896420 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.430639 60.895808 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.429108 60.895195 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.427578 60.894583 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.426047 60.893971 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.424516 60.893359 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.422986 60.892746 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.421455 60.892134 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.446830 60.900562 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.448290 60.899973 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.449750 60.899384 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.451209 60.898795 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.452669 60.898207 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.454129 60.897618 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.455588 60.897029 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.457048 60.896440 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.458507 60.895852 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.459967 60.895263 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.461426 60.894674 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.462886 60.894085 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.464345 60.893496 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.465805 60.892908 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.467264 60.892319 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.468723 60.891730 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.470183 60.891141 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.471642 60.890553 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.473101 60.889964 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.474560 60.889375 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.476020 60.888786 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.477479 60.888197 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.478938 60.887609 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.476756 60.887773 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.475298 60.888362 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.473839 60.888951 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.472380 60.889540 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.470922 60.890129 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.469463 60.890718 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.468004 60.891307 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.466545 60.891896 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.465087 60.892486 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.463628 60.893075 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.462169 60.893664 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.460710 60.894253 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.459251 60.894842 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.457792 60.895431 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.456333 60.896020 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.454874 60.896609 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.453415 60.897199 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.451956 60.897788 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.450497 60.898377 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.449038 60.898966 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.447579 60.899555 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.446120 60.900144 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -161.444660 60.900733 -9999.0 0.00
+OBJECT LEGO.btg
+OBJECT LEPO.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.102561 39.905946 2.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.101836 39.906798 2.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.101112 39.907649 2.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.100387 39.908501 2.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.099662 39.909353 3.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.098937 39.910205 5.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.099173 39.909106 3.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.099898 39.908255 1.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.100622 39.907403 1.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.101347 39.906551 1.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.102072 39.905699 2.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 3.102797 39.904847 1.7 0.00
+OBJECT M57.btg
+OBJECT_SHARED Models/Airport/windsock.xml -70.649169 44.966344 463.7 0.00
+OBJECT MT92.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.331417 47.591405 733.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.332771 47.591439 732.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.334126 47.591473 732.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.335481 47.591507 732.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.336836 47.591540 732.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.338191 47.591574 732.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.339545 47.591608 732.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.340900 47.591642 732.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.342255 47.591676 732.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.343610 47.591710 732.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.344965 47.591743 731.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.346319 47.591777 731.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.347674 47.591811 731.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.349029 47.591845 730.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.350384 47.591879 730.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.349044 47.591570 730.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.347689 47.591536 730.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.346334 47.591502 731.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.344980 47.591469 731.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.343625 47.591435 731.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.342270 47.591401 731.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.340915 47.591368 731.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.339560 47.591334 732.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.338205 47.591301 732.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.336851 47.591267 732.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.335496 47.591233 732.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.334141 47.591200 732.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.332786 47.591166 732.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.331431 47.591132 732.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -115.330077 47.591099 732.7 0.00
+OBJECT OOH.btg
+OBJECT PAEL.btg
+OBJECT PAGN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -134.567658 57.496809 0.4 0.00
+OBJECT PANR.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -134.897693 58.255365 4.0 0.00
+OBJECT PEC.btg
+OBJECT T38.btg
+OBJECT TKL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -133.942879 58.491175 0.5 0.00
+OBJECT TLG1.btg
+OBJECT_SHARED Models/Airport/windsock.xml 160.150276 -9.101137 7.8 0.00
+OBJECT WV37.btg
+OBJECT WV38.btg
+OBJECT WV41.btg
+OBJECT WV42.btg
+OBJECT WV43.btg
+OBJECT XC0001.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.664256 45.404537 186.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.665554 45.404683 186.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.666852 45.404828 186.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.668150 45.404974 186.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.669448 45.405120 185.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.670746 45.405266 185.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.672044 45.405412 185.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.673342 45.405558 186.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.674640 45.405704 186.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.675938 45.405850 186.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.677236 45.405996 186.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.678534 45.406142 186.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.679832 45.406288 186.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.681130 45.406434 186.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.682428 45.406580 186.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.681231 45.405988 186.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.679933 45.405842 186.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.678635 45.405697 186.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.677337 45.405551 186.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.676039 45.405405 186.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.674741 45.405259 185.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.673443 45.405114 185.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.672145 45.404968 185.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.670847 45.404822 185.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.669549 45.404677 185.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.668251 45.404531 185.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.666952 45.404385 186.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.665654 45.404239 186.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.664356 45.404094 186.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.663058 45.403948 186.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.658098 45.405212 187.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.659342 45.404862 187.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.660587 45.404512 186.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.661831 45.404161 186.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.663076 45.403811 186.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.664320 45.403460 186.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.665565 45.403110 186.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.666809 45.402760 186.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.668053 45.402409 187.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.669298 45.402059 187.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.670542 45.401709 187.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.671787 45.401358 188.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.673031 45.401008 188.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.674275 45.400658 189.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.675520 45.400307 189.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.674038 45.400239 189.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.672793 45.400589 189.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.671549 45.400940 188.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.670305 45.401290 188.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.669060 45.401641 187.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.667816 45.401991 187.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.666572 45.402342 187.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.665327 45.402692 186.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.664083 45.403043 186.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.662839 45.403394 186.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.661594 45.403744 186.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.660350 45.404095 186.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.659106 45.404445 187.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.657861 45.404796 187.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -76.656617 45.405146 188.0 0.00
+OBJECT XC0002.btg
+OBJECT XC0003.btg
+OBJECT XC000K.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.188964 48.485421 278.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.189999 48.484815 278.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.191033 48.484209 278.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.192067 48.483603 278.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.193101 48.482997 278.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.194135 48.482391 277.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.195170 48.481785 277.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.196204 48.481179 277.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.197238 48.480572 277.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.198272 48.479966 277.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.199306 48.479360 277.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.200341 48.478754 277.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.201375 48.478148 278.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.202409 48.477542 278.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.203443 48.476936 278.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.201960 48.477204 278.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.200926 48.477810 278.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.199892 48.478416 277.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.198858 48.479023 277.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.197824 48.479629 277.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.196790 48.480235 277.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.195756 48.480841 277.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.194722 48.481447 277.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.193688 48.482054 277.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.192654 48.482660 278.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.191620 48.483266 278.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.190586 48.483872 278.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.189552 48.484478 278.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.188518 48.485085 278.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.187484 48.485691 278.4 0.00
+OBJECT XC000U.btg
+OBJECT XC0011.btg
+OBJECT_SHARED Models/Airport/windsock.xml -79.402613 46.331263 207.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -79.411926 46.328701 205.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.391036 46.322869 201.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.392285 46.323173 201.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.393533 46.323476 202.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.394781 46.323779 202.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.396029 46.324082 202.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.397277 46.324385 202.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.398525 46.324688 202.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.399773 46.324992 202.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.401021 46.325295 202.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.402269 46.325598 202.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.403517 46.325901 202.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.404766 46.326204 202.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.406014 46.326507 202.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.407262 46.326811 202.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.408510 46.327114 202.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.407477 46.326385 202.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.406229 46.326082 202.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.404981 46.325779 202.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.403732 46.325476 202.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.402484 46.325173 202.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.401236 46.324870 202.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.399988 46.324567 202.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.398740 46.324264 202.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.397491 46.323961 202.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.396243 46.323658 202.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.394995 46.323355 201.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.393747 46.323052 201.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.392499 46.322749 201.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.391251 46.322446 201.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -79.390002 46.322143 201.3 0.00
+OBJECT XC0015.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.886170 46.960363 399.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.886720 46.959533 400.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.887270 46.958704 400.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.887821 46.957874 400.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.888371 46.957044 400.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.888921 46.956214 399.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.889471 46.955384 399.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.890021 46.954555 399.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.890571 46.953725 399.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.891121 46.952895 399.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.891671 46.952065 399.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.892221 46.951236 399.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.892771 46.950406 399.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.893321 46.949576 399.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.893871 46.948746 399.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.892722 46.949390 399.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.892172 46.950220 399.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.891622 46.951050 399.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.891072 46.951879 399.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.890522 46.952709 399.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.889973 46.953539 399.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.889423 46.954369 399.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.888873 46.955199 399.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.888323 46.956028 400.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.887773 46.956858 400.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.887223 46.957688 400.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.886673 46.958518 400.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.886123 46.959348 400.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.885573 46.960178 400.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -74.885023 46.961007 399.7 0.00
+OBJECT XC0018.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.768961 46.470067 34.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.769459 46.470914 35.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.769957 46.471761 35.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.770455 46.472608 36.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.770954 46.473456 36.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.771452 46.474303 36.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.771950 46.475150 36.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.772448 46.475997 36.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.772946 46.476845 36.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773445 46.477692 36.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773943 46.478539 35.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774441 46.479386 35.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774939 46.480234 35.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775438 46.481081 35.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775936 46.481928 35.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.776042 46.480911 35.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775543 46.480064 35.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775045 46.479217 35.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774547 46.478370 35.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774048 46.477523 35.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773550 46.476675 36.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773051 46.475828 36.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.772553 46.474981 36.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.772055 46.474134 36.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.771557 46.473286 36.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.771058 46.472439 36.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.770560 46.471592 35.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.770062 46.470745 35.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.769563 46.469897 34.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.769065 46.469050 33.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773622 46.499010 36.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773733 46.498075 36.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773844 46.497140 36.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773955 46.496204 36.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774066 46.495269 36.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774177 46.494334 36.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774288 46.493398 36.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774399 46.492463 36.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774510 46.491528 36.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774621 46.490592 36.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774731 46.489657 36.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774842 46.488722 35.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774953 46.487787 35.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775064 46.486851 35.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775175 46.485916 35.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775286 46.484981 35.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775397 46.484045 35.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775508 46.483110 35.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.775619 46.482175 35.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774859 46.483073 35.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774748 46.484009 35.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774637 46.484944 35.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774526 46.485879 35.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774415 46.486814 35.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774304 46.487750 36.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774193 46.488685 36.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.774082 46.489620 36.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773971 46.490556 36.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773861 46.491491 36.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773750 46.492426 36.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773639 46.493362 36.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773528 46.494297 36.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773417 46.495232 36.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773306 46.496168 36.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773195 46.497103 36.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.773084 46.498038 36.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.772973 46.498974 36.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -72.772862 46.499909 36.5 0.00
+OBJECT XC001F.btg
+OBJECT XC0024.btg
+OBJECT_SHARED Models/Airport/windsock.xml -71.393829 46.751431 39.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.388139 46.754742 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.388826 46.753957 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.389513 46.753171 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.390200 46.752386 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.390888 46.751601 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.391575 46.750816 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.392262 46.750031 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.392949 46.749246 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.393636 46.748460 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.394324 46.747675 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.395011 46.746890 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.395698 46.746105 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.396385 46.745320 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.397072 46.744535 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.397759 46.743749 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.396511 46.744302 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.395824 46.745088 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.395137 46.745873 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.394450 46.746658 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.393763 46.747443 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.393075 46.748228 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.392388 46.749014 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.391701 46.749799 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.391014 46.750584 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.390327 46.751369 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.389640 46.752155 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.388953 46.752940 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.388266 46.753725 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.387579 46.754510 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.386892 46.755296 -9999.0 0.00
+OBJECT XC0025.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.776351 59.001356 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.776641 59.002282 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.776931 59.003207 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.777221 59.004132 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.777512 59.005058 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.777802 59.005983 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.778092 59.006908 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.778382 59.007834 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.778672 59.008759 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.778963 59.009685 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.779253 59.010610 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.779543 59.011535 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.779833 59.012461 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.780124 59.013386 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.780414 59.014311 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.780704 59.015237 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.780994 59.016162 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.781285 59.017088 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.781575 59.018013 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.782145 59.017016 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.781855 59.016090 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.781564 59.015165 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.781274 59.014240 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.780983 59.013314 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.780693 59.012389 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.780402 59.011464 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.780112 59.010538 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.779822 59.009613 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.779531 59.008688 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.779241 59.007762 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.778951 59.006837 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.778660 59.005911 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.778370 59.004986 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.778079 59.004061 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.777789 59.003135 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.777499 59.002210 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.777208 59.001285 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.776918 59.000359 -9999.0 0.00
+OBJECT XC002B.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.616026 48.556164 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.616268 48.557064 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.616510 48.557963 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.616752 48.558862 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.616994 48.559761 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.617236 48.560661 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.617478 48.561560 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.617720 48.562459 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.617962 48.563358 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.618204 48.564258 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.618446 48.565157 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.618688 48.566056 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.618930 48.566956 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.619172 48.567855 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.619414 48.568754 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.619840 48.567776 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.619598 48.566876 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.619355 48.565977 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.619113 48.565078 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.618871 48.564179 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.618629 48.563279 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.618387 48.562380 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.618145 48.561481 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.617903 48.560582 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.617661 48.559682 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.617419 48.558783 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.617177 48.557884 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.616935 48.556985 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.616693 48.556085 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -71.616451 48.555186 -9999.0 0.00
+OBJECT XC002E.btg
+OBJECT XC003D.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.669692 65.254968 61.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.671622 65.255389 61.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.673551 65.255810 61.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.675480 65.256231 60.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.677409 65.256653 60.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.679339 65.257074 60.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.681268 65.257495 60.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.683198 65.257916 60.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.685127 65.258337 60.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.687057 65.258758 60.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.688986 65.259179 61.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.690916 65.259601 61.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.692845 65.260022 61.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.694775 65.260443 61.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.696705 65.260864 61.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.695272 65.260043 61.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.693342 65.259622 61.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.691412 65.259201 61.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.689482 65.258780 61.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.687552 65.258360 60.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.685622 65.257939 60.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.683692 65.257518 60.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.681762 65.257097 60.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.679832 65.256676 60.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.677902 65.256256 60.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.675973 65.255835 61.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.674043 65.255414 61.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.672113 65.254993 61.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.670183 65.254572 61.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -126.668254 65.254152 61.0 0.00
+OBJECT XC0099.btg
+OBJECT XC009B.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.496368 45.967132 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.497673 45.967328 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.498978 45.967525 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.500283 45.967722 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.501588 45.967919 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.502893 45.968115 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.504198 45.968312 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.505503 45.968509 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.506808 45.968706 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.505639 45.968069 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.504334 45.967872 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.503029 45.967676 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.501724 45.967479 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.500419 45.967282 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.499114 45.967086 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.497809 45.966889 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.496504 45.966692 -9999.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.495199 45.966496 -9999.0 0.00
+OBJECT XC009S.btg
+OBJECT XC009T.btg
+OBJECT XC009V.btg
+OBJECT XC009X.btg
+OBJECT XC009Y.btg
+OBJECT XC00A1.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.537481 48.940847 1.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.538457 48.941481 1.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.539432 48.942116 1.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.540408 48.942750 1.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.541384 48.943384 1.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.542360 48.944019 1.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.543335 48.944653 1.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.544311 48.945287 1.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.545287 48.945922 1.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.546263 48.946556 1.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.547239 48.947190 1.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.548215 48.947825 0.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.549190 48.948459 0.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.550166 48.949093 -0.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.551142 48.949728 -0.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.552118 48.950362 -1.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.553094 48.950996 -1.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.554070 48.951631 -1.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.555046 48.952265 -1.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.556022 48.952899 -1.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.556998 48.953534 -0.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.556504 48.952578 -1.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.555527 48.951944 -1.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.554551 48.951309 -1.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.553575 48.950675 -1.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.552599 48.950041 -1.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.551623 48.949407 -0.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.550647 48.948773 -0.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.549670 48.948139 0.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.548694 48.947504 0.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.547718 48.946870 1.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.546742 48.946236 1.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.545766 48.945602 1.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.544790 48.944968 1.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.543814 48.944333 1.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.542838 48.943699 1.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.541862 48.943065 1.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.540886 48.942431 1.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.539910 48.941797 1.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.538934 48.941163 1.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.537958 48.940528 1.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -125.536982 48.939894 1.3 0.00
+OBJECT XC00A6.btg
+OBJECT XC00A8.btg
+OBJECT XCYCPS1.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.036984 45.335217 174.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.037607 45.334411 174.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.038230 45.333604 174.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.038854 45.332797 174.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.039477 45.331990 174.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.040100 45.331184 174.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.040723 45.330377 174.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.041346 45.329570 174.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.041969 45.328763 174.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.042593 45.327956 174.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.043216 45.327150 174.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.043839 45.326343 174.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.044462 45.325536 174.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.045085 45.324729 174.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.045708 45.323923 174.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.044524 45.324514 174.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.043901 45.325321 174.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.043278 45.326127 174.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.042655 45.326934 174.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.042032 45.327741 174.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.041409 45.328548 174.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.040786 45.329355 174.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.040163 45.330162 174.4 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.039540 45.330968 174.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.038917 45.331775 174.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.038294 45.332582 174.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.037671 45.333389 174.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.037048 45.334196 174.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.036425 45.335002 174.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -80.035801 45.335809 175.1 0.00
+OBJECT XEG000J.btg
+OBJECT_SHARED Models/Airport/windsock.xml -4.606728 56.015671 8.9 0.00
+OBJECT XEG000O.btg
+OBJECT_SHARED Models/Airport/windsock.xml -4.278881 56.384822 101.7 0.00
+OBJECT XEKAC.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.260220 56.157569 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.258821 56.157119 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.257422 56.156669 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.256022 56.156219 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.254623 56.155769 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.256424 56.155830 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.257823 56.156280 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.259223 56.156730 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.260622 56.157180 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.262021 56.157630 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.260158 56.151531 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.259350 56.152311 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.258543 56.153090 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.257735 56.153869 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.256927 56.154649 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.257038 56.153645 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.257846 56.152865 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.258654 56.152086 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.259462 56.151306 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 10.260269 56.150527 0.0 0.00
+OBJECT XEKCC.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.619136 55.710861 -0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.617912 55.710283 -0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.616688 55.709704 -0.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.615464 55.709126 -0.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.614241 55.708547 0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.615975 55.708781 -0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.617199 55.709360 -0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.618423 55.709938 -0.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.619646 55.710517 -0.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.620870 55.711095 -0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.625047 55.701812 0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.623824 55.702390 0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.622600 55.702969 0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.621377 55.703547 0.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.620153 55.704126 -0.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.620866 55.703203 0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.622090 55.702624 0.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.623313 55.702046 0.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.624537 55.701467 0.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 12.625760 55.700889 0.2 0.00
+OBJECT XK0059.btg
+OBJECT XLF000Y.btg
+OBJECT_SHARED Models/Airport/windsock.xml 4.705941 48.569264 134.7 0.00
+OBJECT XLF0028.btg
+OBJECT_SHARED Models/Airport/windsock.xml 4.523552 48.349118 132.6 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 4.504045 48.350541 131.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml 4.505948 48.351133 131.0 0.00
+OBJECT XLF004R.btg
+OBJECT XRP003U.btg
+OBJECT XRP003V.btg
+OBJECT XRP003W.btg
+OBJECT XRP003X.btg
+OBJECT XRP003Y.btg
+OBJECT XRP003Z.btg
+OBJECT XRP0040.btg
+OBJECT YSML.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 148.840047 -20.262093 10.6 0.00
